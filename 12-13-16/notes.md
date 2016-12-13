@@ -114,3 +114,4 @@ dec_tree.predict(test)
 
 - [Decision Tree Gem](https://github.com/igrigorik/decisiontree)
 - [Naive Bayes](https://github.com/oasic/nbayes)
+- [Machine Learning Algorithm Overview](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202)
